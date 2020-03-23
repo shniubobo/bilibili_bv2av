@@ -1,0 +1,2 @@
+# bilibili_bv2av
+一个简单的脚本，用于Bilibili的BV号与av号之间的转换
