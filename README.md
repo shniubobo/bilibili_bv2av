@@ -1,8 +1,10 @@
 # bilibili_bv2av
 一个简单的脚本，用于Bilibili的BV号与av号之间的转换
 
-## 下载
+## 下载与使用
 如果没有Python环境，可以去[releases](https://github.com/shniubobo/bilibili_bv2av/releases)页面下载.exe版
+
+一个简短的使用示范：[av98755099](https://www.bilibili.com/video/av98755099/)([BV1A7411U7G9](https://www.bilibili.com/video/BV1A7411U7G9/))
 
 ## 一些个人想法
 这个新的BV号真的很不友好，原本的纯数字一目了然，方便自己手打，现在数字+大小写字母就很不方便。B站号称的“为了保护稿件信息安全，……，维护UP主的权益”完全看不出来，很多api接受的参数依旧是av号，返回的视频信息里也同时包含av和BV号，F12稍微看一下就可以很方便地进行两者之间的转换，实际上并没有把av号隐藏起来。再加上av号用了这么多年，许多视频和评论里都有使用av号来链接视频，av号又不能完全放弃。
